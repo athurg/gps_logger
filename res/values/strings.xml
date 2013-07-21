@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS_Logger</string>
+    <string name="latitude">经度</string>
+    <string name="longitude">纬度</string>
+    <string name="altitude">海拔</string>
+    <string name="speed">速度</string>
+    <string name="time">时间</string>
+
+</resources>
